@@ -11,6 +11,14 @@ The tools are grouped according functionality and will be updated whenever new o
 
 Datawrapper is an open source tool that lets anyone create simple and correct embeddable charts and maps. The amount of code needed to get a chart running is minimal and they are easily shareable on your sites.
 
+### [Tableau Public](https://public.tableau.com)
+
+Most popular visualization tool which supports a wide variety of charts, graphs, maps and other graphics. It is a completely free tool and the charts you make with it can be easily embedded in any web page.
+
+### [RAW](http://rawgraphs.io/)
+
+According to RAW this tool is the "The Missing Link Between Spreadsheets & Vector Graphics". RAW is an open web tool to create custom vector-based visualizations on top of the amazing d3.js library.
+
 ### [Google Fusion Tables/Charts](https://developers.google.com/fusiontables/)
 
 Google Fusion Tables is an experimental application that lets you store, share, query and visualize tables. It offers a REST API to manage tables, info window templates, and styles. The query endpoint allows you to manage data rows (insert/update/delete), and query the table for all rows that match spatial or data conditions. The results of queries can be CSV or JSON, or used in the Google Maps API or Google Chart Tools. 
